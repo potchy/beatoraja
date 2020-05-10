@@ -242,7 +242,7 @@ public class MainLoader extends Application {
 	}
 
 	public static void putIllegalSong(String hash) {
-		illegalSongs.add(hash);
+		// illegalSongs.add(hash);
 	}
 
 	public static String[] getIllegalSongs() {
